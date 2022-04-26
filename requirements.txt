@@ -1,0 +1,19 @@
+# For linting
+flake8
+
+# For formatting
+autoflake
+isort
+black
+black[jupyter]
+
+# For the framework
+Jupyter
+numpy
+pytest
+pytest-cov
+tqdm
+
+# For plotting and PCA example code
+pandas
+matplotlib
